@@ -1,3 +1,4 @@
 def oxford_comma(array)
-  array.to_s 
+  string = String(array)
+  return string 
 end
