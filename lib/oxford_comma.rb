@@ -10,6 +10,5 @@ def oxford_comma(array)
   else 
     array[3] << ", and"
     array.join(" ") 
-    array.split(",")
   end
 end
